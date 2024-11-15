@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1c52493d-3fc6-4e95-a2f1-1fac818b62a7",
+    "title": "A",
+    "author": "B",
+    "published-year": "1",
+    "genre": "F"
+  },
+  {
+    "id": "e57086a3-ce45-4c08-91f5-566510eef745",
+    "title": "Great Moby Dick",
+    "author": "Herman Melville",
+    "published-year": "1980",
+    "genre": "Fiction"
+  },
+  {
+    "id": "e57086a3-ce45-4c08-91f5-566510eef746",
+    "title": "BIBIDBI",
+    "author": "Herman Melville",
+    "published-year": "1980",
+    "genre": "Fiction"
+  }
+]
