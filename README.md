@@ -1,44 +1,34 @@
-# book-inventory
+# Book Inventory
 
-FIXME: description
+A simple Clojure-based book inventory management system. This project allows you to add, update, delete, and list books in your inventory. It's built with Clojure and uses an in-memory data store to manage the books.
 
-## Installation
+## Features
 
-Download from http://example.com/FIXME.
+- View all books in the inventory.
+- Add a new book to the inventory.
+- Update book details (title, author, year, genre).
+- Delete a book from the inventory by ID.
 
-## Usage
+## Getting Started
 
-FIXME: explanation
+To run the project, you'll need to have [Leiningen](https://leiningen.org/) installed on your machine. Leiningen is a build automation tool for Clojure.
 
-    $ java -jar book-inventory-0.1.0-standalone.jar [args]
+### Running the Project
 
-## Options
+1. Clone this repository to your local machine:
 
-FIXME: listing of options this app accepts.
+   ```bash
+   git clone https://github.com/yourusername/book-inventory.git
+   cd book-inventory
+   ```
 
-## Examples
+2. Run the project using Leiningen:
 
-...
+   ```bash
+   lein run
+   ```
 
-### Bugs
+This will start the book inventory system, and you can interact with it through the command line.
 
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
-
-## License
-
-Copyright © 2024 FIXME
-
-This program and the accompanying materials are made available under the
-terms of the Eclipse Public License 2.0 which is available at
-http://www.eclipse.org/legal/epl-2.0.
-
-This Source Code may also be made available under the following Secondary
-Licenses when the conditions for such availability set forth in the Eclipse
-Public License, v. 2.0 are satisfied: GNU General Public License as published by
-the Free Software Foundation, either version 2 of the License, or (at your
-option) any later version, with the GNU Classpath Exception which is available
-at https://www.gnu.org/software/classpath/license.html.
+### License
+This project is licensed under the Eclipse Public License - see the LICENSE file for details.
